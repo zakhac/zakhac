@@ -31,8 +31,3 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 #### [Bermuda Options Pricing]
 *Pricing engine using Monte Carlo and Finite Differences methods.*
 - **Tech:** C++, STL, High-Performance Computing.
-
----
-
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=zakhac&show_icons=true&theme=radical)
