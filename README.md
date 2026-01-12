@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zakari Hachemi 👋 
+**Incoming Summer Quant Analyst @ Balyasny Asset Management | MSc Applied Math & Centrale Lille**
 
-<!--
-**zakhac/zakhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative researcher and developer with a focus on systematic alpha signals, stochastic calculus, and machine learning applied to finance.
 
-Here are some ideas to get you started:
+- 📈 Currently working on: Multi-agent trading systems and LLM-driven signal extraction.
+- 🎓 MSc in Modeling & Mathematical Methods in Economics and Finance (Sorbonne).
+- 🛠️ Background: Global Macro, Fixed Income (OTC Quoting), and Wealth Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🖥️ Technical Stack (Quant Finance Focused)
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), C++, C#, SQL, VBA |
+| **Data & Math** | Pandas, NumPy, Polars, SciPy, Statsmodels, QuantLib |
+| **AI / Machine Learning** | PyTorch, JAX, TensorFlow, Scikit-learn, Hidden Markov Models |
+| **Finance Specific** | Yield Curve Modeling (Nelson-Siegel), Backtrader, Zipline |
+| **DevOps & Tools** | Git, Docker, CI/CD, Streamlit (Dashboards), Bloomberg Terminal / Eikon API |
+
+---
+
+### 🚀 Key Projects
+
+#### [Multi-Agent Trading System]
+*Developed a trading environment using LLMs and Reinforcement Learning.*
+- [cite_start]**Performance:** Sharpe 1.3, Hit Rate 61%[cite: 48].
+- **Tech:** Python, HMM, RL.
+
+#### [Bermuda Options Pricing]
+*Pricing engine using Monte Carlo and Finite Differences methods.*
+- **Tech:** C++, STL, High-Performance Computing.
+
+---
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=zakhac&show_icons=true&theme=radical)
