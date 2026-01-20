@@ -11,7 +11,7 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 
 ### 🖥️ Technical Stack (Quant Finance Focused)
 
-### 🖥️ Technical Stack (Quant Finance Focused)
+### 🖥️ Technical Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -27,7 +27,7 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 
 #### [Multi-Agent Trading System]
 *Developed a trading environment using LLMs and Reinforcement Learning.*
-- [cite_start]**Performance:** Sharpe 1.3, Hit Rate 61%[cite: 48].
+- **Performance:** Sharpe 1.3, Hit Rate 61%.
 - **Tech:** Python, HMM, RL.
 
 #### [Bermuda Options Pricing]
