@@ -9,8 +9,6 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 
 ---
 
-### 🖥️ Technical Stack (Quant Finance Focused)
-
 ### 🖥️ Technical Stack
 
 | Domain | Tools & Technologies |
