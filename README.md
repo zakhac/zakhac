@@ -38,8 +38,8 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 
 Course materials from my **[MMMEF Sorbonne Courses](https://github.com/zakhac/MMMEF-Sorbonne-Courses)** repository. These act as my personal lecture notes.
 
-- **[Advanced Topics in ML](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/main/Adv_Tops_in_ML/Adv_Tops_in_ML.pdf)**: Risk minimization, optimization, learning theory.
-- **[Arbitrage Theory](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/main/Arbitrage/english/ArbitrageTheoryEN.pdf)**: Mathematical theory of arbitrage, asset pricing, derivatives.
-- **[Game Theory](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/main/GameTheory/english/GameTheoryEN.pdf)**: Strategic games, Nash equilibria, cooperative games.
-- **[Numerical Methods](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/main/Numerical_methods/NumericalMethods.pdf)**: Optimization techniques and algorithms.
-- **[Monte Carlo & Malliavin](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/main/Malliavin/MalliavinNotes.pdf)**: Simulation methods, Malliavin Calculus, Greeks.
+- **[Advanced Topics in ML](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/mmmef-courses/Adv_Tops_in_ML/Adv_Tops_in_ML.pdf)**: Risk minimization, optimization, learning theory.
+- **[Arbitrage Theory](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/mmmef-courses/Arbitrage/english/ArbitrageTheoryEN.pdf)**: Mathematical theory of arbitrage, asset pricing, derivatives.
+- **[Game Theory](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/mmmef-courses/GameTheory/english/GameTheoryEN.pdf)**: Strategic games, Nash equilibria, cooperative games.
+- **[Numerical Methods](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/mmmef-courses/Numerical_methods/NumericalMethods.pdf)**: Optimization techniques and algorithms.
+- **[Monte Carlo & Malliavin](https://github.com/zakhac/MMMEF-Sorbonne-Courses/blob/mmmef-courses/Malliavin/MalliavinNotes.pdf)**: Simulation methods, Malliavin Calculus, Greeks.
