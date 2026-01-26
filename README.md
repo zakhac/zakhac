@@ -23,14 +23,23 @@ Quantitative researcher and developer with a focus on systematic alpha signals, 
 
 ### 🚀 Key Projects
 
-#### [Multi-Agent Trading System]
-*Developed a trading environment using LLMs and Reinforcement Learning.*
-- **Performance:** Sharpe 1.3, Hit Rate 61%.
-- **Tech:** Python, HMM, RL.
+#### [KMR: Kernel Manifold Reconstruction](https://github.com/zakhac/Kernel-Manifold-Reconstruction)
+*Research-grade topological algorithmic trading engine separating signal from noise.*
+- **Alpha:** Generated robust "Crisis Alpha" by mapping market states to high-dimensional manifolds (Kernel PCA) and filtering regimes (HMM).
+- **Impact:** Outperformed benchmarks with defensive growth, avoiding major market crashes (2008, 2020).
+- **Tech:** `Python`, `Topological Data Analysis`, `HMM`, `Walk-Forward Optimization`.
 
-#### [Bermuda Options Pricing]
-*Pricing engine using Monte Carlo and Finite Differences methods.*
-- **Tech:** C++, STL, High-Performance Computing.
+#### [PIPR: Physics-Based Trading Engine](https://github.com/zakhac/Path-Integral-Propagator)
+*Quantitative library applying Lie Group Theory and Path Integrals to financial modeling.*
+- **Core:** Implements a geometric integrator with exact matrix exponentiation for rigorous arbitrage-free modeling.
+- **Innovation:** Captures non-linear price symmetries and detects chaos via Lyapunov exponents and correlated diffusion.
+- **Tech:** `Python`, `Lie Groups`, `Differential Geometry`, `Numba`.
+
+#### [Spatial Evolutionary Markets](https://github.com/zakhac/Spatial-Evolutionary-Markets)
+*High-performance agent-based simulation of market microstructure and herd behavior.*
+- **Dynamics:** Models emergent volatility and crashes via spatial competition between 40,000 heterogeneous trading agents.
+- **Theory:** Extends the Brock & Hommes ABS model using spatial evolutionary game theory on a 2D lattice.
+- **Tech:** `Python`, `Agent-Based Modeling`, `Game Theory`, `Simulation`.
 
 ---
 
